@@ -41,5 +41,5 @@ You can also use other methods such as in an Anaconda environment, etc.
   --train_epochs 30 \
 
     <p align="center">
-  <img src="https://raw.githubusercontent.com/username/repo/master/assets/matrix-footer.gif" alt="Matrix Footer">
+  <img src="https://user-images.githubusercontent.com/43012445/105452071-411e4880-5c43-11eb-8ae2-4de61f310bf9.gif" alt="Matrix Footer">
 </p>
