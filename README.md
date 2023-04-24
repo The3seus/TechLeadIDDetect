@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/username/repo/master/assets/matrix-banner.gif" alt="Matrix Banner">
+  <img src="https://user-images.githubusercontent.com/43012445/105452071-411e4880-5c43-11eb-8ae2-4de61f310bf9.gif" alt="Matrix Banner">
 </p>
 
 # <p style="color:green">🔍 Fake ID Detection using TensorFlow 2.x and Convolutional Neural Network</p>
